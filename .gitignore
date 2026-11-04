@@ -1,0 +1,14 @@
+# Virtuální prostředí
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE nastavení
+.vscode/
+
+# Databáze
+*.db
+*.sqlite3
