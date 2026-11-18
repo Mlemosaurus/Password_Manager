@@ -1,4 +1,4 @@
-from data.database import DatabaseManager
+from storage.database import DatabaseManager
 import os
 
 def run_tests():
